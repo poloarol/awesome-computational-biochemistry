@@ -6,13 +6,16 @@
 5. DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking (https://github.com/gcorso/DiffDock) https://arxiv.org/abs/2210.
 6. Strucure-based Drug Design with Equivariant Diffusion Models https://doi.org/10.48550/arXiv.2210.13695 (https://t.co/St7WyPYAut)
 7. Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures https://doi.org/10.1101/2022.07.10.499510
+8. Deep Unsupervised Learning using Nonequilibrium Thermodynamics https://doi.org/10.48550/arXiv.1503.03585
 
 
 ### Transformers
 1. Transformer-based protein generation with regularized latent space optimization https://www.nature.com/articles/s42256-022-00532-1
 2. Top-down design of protein nanomaterials with reinforcement learning https://doi.org/10.1101/2022.09.25.509419
 3. One Transformer Can Understand Both 2D & 3D Molecular Data https://doi.org/10.48550/arXiv.2210.01765
-
+4. Recipe for a General, Powerful, Scalable Graph Transformer https://arxiv.org/pdf/2205.12454.pdf
+5. Your Transformer May Not be as Powerful as You Expect https://doi.org/10.48550/arXiv.2205.13401
+6. MolE: a molecular foundation for drug discovery https://doi.org/10.48550/arXiv.2211.02657
 
 
 ### Variational Autoencoder
