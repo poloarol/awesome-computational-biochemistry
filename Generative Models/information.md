@@ -21,14 +21,11 @@
 ### Variational Autoencoder
 1. Automatic Chemical Design Using a Data-Driven Continous Representation of Molecules http://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00572
 
-
-### Reinforcement Learning
-1. Generative and reinforcement learning approaches for the automated de novo design of bioactive compounts https://www.nature.com/articles/s42004-022-00733-0#Abs1
-2.  
-
 ### Representation Learning
 1. Antibody Representation Learning for Drug Discovery https://arxiv.org/abs/2210.02881
 2. Generative and reinforcement learning approaches fro the automated de novo design of bioactive compounds https://doi.org/10.1038/s42004-022-00733-0
+3. Single-sequence protein structure prediction using a language model and deep learning https://doi.org/10.1038/s41587-022-01432-w
+
 
 ### Evaluation Metrics
 1. The Vendi Score: A Diversity Evaluation Metric for Machine Learning https://doi.org/10.48550/arXiv.2210.02410

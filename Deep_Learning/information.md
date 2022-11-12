@@ -9,3 +9,4 @@
 9. AntBO: Towards Real-World Automated Antibody Design using Combinatorial Bayesian Optimization https://doi.org/10.48550/arXiv.2201.12570
 10. Graph representation learning in biomedicine and healthcare https://doi.org/10.1038/s41551-022-00942-x
 11. How robust are modern graph neural network potentials in long and hot molecular dynamics simulations? https://t.co/x9hjXqayMW GitHub: https://github.com/TUM-DAML/gemnet_pytorch
+12. End-to-end learning of multiple sequence alignments with differentiable Smith-Waterman https://doi.org/10.1093/bioinformatics/btac724

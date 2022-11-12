@@ -1,3 +1,9 @@
+
+1. Multiomics study of nonalcoholic fatty liver disease https://doi.org/10.1038/s41588-022-01199-5
+2. Defining the extent of gene function using ROC curvature https://doi.org/10.1093/bioinformatics/btac692
+
+
+
 ### ATAC-seq
 1. Shared and distinct biological circuits in effector, memory and exhausted CD8+ T cells revealed by temporal single-cell transcriptomics and epigenetics https://doi.org/10.1038/s41590-022-01338-4
 2. Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA https://doi.org/10.1038/s41467-022-33194-z
@@ -6,7 +12,7 @@
 5. Significant variation in the performance of DNA methylation predictors across data processing and normalization strategies https://doi.org/10.1186/s13059-022-02793-w
 6. Multifactorial profiling of epigenetic landscapes at single-cell resolution using MulTI-Tag https://doi.org/10.1038/s41587-022-01522-9
 7. Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution https://doi.org/10.1016/j.cell.2022.09.039
-8. 
+8. scBasset: sequence-based modelling of single-cell ATA-seq using convolutional neural networks https://doi.org/10.1038/s41592-022-01562-8
 
 
 ### scRNA-seq
@@ -41,6 +47,13 @@
 29. scAN10: A reproducible and standardized pipeline for processing 10X single cell RNAseq data https://doi.org/10.1101/2022.11.07.515546
 30. Direct Proteomic Quantification of the Secretome of Activated Immune Cells https://doi.org/10.1126/science.1232578
 31. Heterogeneous plasma cells and long-lived subsets in response to immunization, autoantigen and microbiota https://doi.org/10.1038/s41590-022-01345-5
+32. Precise identification of cell states altered in disease with healthy single-cell references https://doi.org/10.1101/2022.11.10.515939
+33. A functional analysis of 180 cancer cell lines reveals conserved intrinsic metabolic programs https://doi.org/10.15252/msb.202211033
+34. Identifying the genes impacted by cell proliferation in proteomics and transcriptomics studies https://doi.org/10.1371/journal.pcbi.1010604
+35. Single-cell transcriptomics reveals cellular heterogeneity and molecular stratification of cervical cancer https://doi.org/10.1038/s42003-022-04142-w
+36. Learning Causal Representations of Single Cells via Sparse Mechanism Shift Modeling https://arxiv.org/pdf/2211.03553.pdf
+37. Graph deep learning for the characterization of tumour microenviroments from spatial protein profiles in tissue specimens https://doi.org/10.1038/s41551-022-00951-w
+38. High-resolution single-cell atlas reveals diversity and plasticity of tissue-resident neutrophils in non-small cell lung cancer https://doi.org/10.1016/j.ccell.2022.10.008
 
 
 ### Trajectory Analysis
@@ -49,7 +62,8 @@
 3. Unraveling causal gene regulation from the RNA velocity graph using Velorama https://doi.org/10.1101/2022.10.18.512766
 4. Inferring population dynamics from single-cell RNA sequencing using time series data https://doi.org/10.1038/s41587-019-0088-0
 5. Unravelling causal gene regulation from the RNA velocity graph Velorama https://doi.org/10.1101/2022.10.18.512766
-
+6. UniTVelo: temporally unified RNA velocity reinforces single-cell trajectory inference https://doi.org/10.1038/s41467-022-34188-7
+7. 
 
 ### Gene Expression Analysis
 1. A simple gene co-expression analyses workflow powered by tidyverse and graph analyses https://github.com/cxli233/SimpleTidy_GeneCoEx
@@ -58,6 +72,13 @@
 4. Gene Expression clustering using Gaussian mixture modelling https://doi.org/10.1186/s12859-022-05006-0
 5. MTM: a multi-task framework to predict individualized tissue gene expression profiles https://doi.org/10.1101/2022.10.19.512838
 6. spliceJAC: transition genes and state-specific gene regulation from single-cell transcriptome data https://doi.org/10.15252/msb.202211176
+7. Uncertainty Quantification for Atlas-Level Cell Type Transfer https://doi.org/10.48550/arXiv.2211.03793
+8. Gradual differentiation uncoupled from cell cycle exit generates heterogeneity in the epidermal stem cell layer https://doi.org/10.1038/s41556-022-01021-8
+9. memento: Generalized differential expression analysis of single-cell RNA-seq with method of moments estimation and efficient resampling https://doi.org/10.1101/2022.11.09.515836
+10. Gene expression based inference of cancer drug sensitivity https://doi.org/10.1038/s41467-022-33291-z
+11. High-dimensional gene expression and morphology profiles of cells across 28,000 genetic and chemical perturbations https://doi.org/10.1038/s41592-022-01667-0
+12. scHumanNet: a single-cell network analysis platform for the study of cell-type specificity of disease genes https://doi.org/10.1093/nar/gkac1042
+13. Differential analysis of microbiomes in mucus and tissues obtained from colorectal cancer patients https://doi.org/10.1038/s41598-022-21928-4
 
 
 ### Spatial Transcriptomics
@@ -83,7 +104,8 @@
 20. Unsupervised discovery of tissue architecture in multiplexed imaging https://doi.org/10.1038/s41592-022-01657-2
 21. De novo analysis of bulk RNA-seq data at spatially resolved single-cell resolution https://doi.org/10.1038/s41467-022-34271-z
 22. Modelling intercellular communication in tissues using spatial graphs of cells https://doi.org/10.1038/s41587-022-01467-z
-23. 
+23. Spatial genomics maps the structure, nature and evolution of cancer clones https://doi.org/10.1038/s41586-022-05425-2
+
 
 
 ### Tools Workflow
@@ -93,6 +115,7 @@
 4. Scirpy: a Scanpy extension for analyzing single-cell T-cell receptor-sequencing data https://doi.org/10.1093/bioinformatics/btaa611
 5. scvi-tools (single-cell varational inference tools) https://docs.scvi-tools.org/en/stable/index.html#
 6. Semisupervised adversarial neural networks for single-cell classification (scnym: https://doi.org/10.1101/gr.268581.120)
+7. pVACTools: https://t.co/ksqi7dzsQD
 
 ### Databases
 1. PanglaoDB: a web server for exploration of mouse and human single-cell RNA sequencing data https://academic.oup.com/database/article/doi/10.1093/database/baz046/5427041
@@ -101,3 +124,4 @@
 1. Single-Cell Updates https://scup.netlify.app/
 2. Sanbomics https://www.youtube.com/channel/UCuf90yPD_Yx53xZyVLtvRmA
 3. Advanced Single-Cell Analysis with Bioconductor https://bioconductor.org/books/3.15/OSCA.advanced/
+4. Cell Annotation Platform (CSHL Biological Data Science 2022) https://t.co/vFlJjuNgJ5
